@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills in C, Java and PostgreSQL.<br>🤝 I’m looking for help with advanced networking concepts and API development.<br>🌱 I’m currently learning data structures, algorithms, and improving my Neovim setup.<br>💬 Ask me about my experience with C, Java, and setting up custom environments in Arch Linux.
+🔭 I’m currently working on enhancing my skills in C, Java and PostgreSQL.<br>🤝 I’m looking for help with advanced networking concepts and API development.<br>🌱 I’m currently learning data structures, algorithms, and improving my Neovim setup.<br>💬 Ask me about my experience with C, Java, and setting up custom environments in Arch Linux.<br>⚡ Fun fact: One of my favorite papers is Alan Turing's "On Computable Numbers, with an Application to the Entscheidungsproblem"—definitely worth a read!
 
 
 ## 🌐 Socials:
