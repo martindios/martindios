@@ -1,4 +1,4 @@
-![Banner](https://github.com/martindios/martindios/banner.png)
+[![MasterHead](https://github.com/martindios/martindios/banner.png)]([https://rishavchanda.io](https://github.com/martindios))
 
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills in C, Java and PostgreSQL.<br>🤝 I’m looking for help with advanced networking concepts and API development.<br>🌱 I’m currently learning data structures, algorithms, and improving my Neovim setup.<br>💬 Ask me about my experience with C, Java, and setting up custom environments in Arch Linux.
