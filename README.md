@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-*Computer Engineering student focused on backend development, embedded systems and containerization.*
+*Computer Engineering student focused on cybersecurity and system administration.*
 
 I use Arch btw
 
