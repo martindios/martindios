@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-*Computer Engineering student focused on cybersecurity and system administration.*
+*Computer Engineering student focused on cybersecurity and system administration.* I’m also interested in low-level development and designing scalable backend APIs.
 
 Contact:
 - [Personal website](https://www.martindios.com)
